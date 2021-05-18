@@ -1,4 +1,8 @@
 hi this is Sachin
 hello
 new Commit 3
+<<<<<<< HEAD
 new edit.
+=======
+some addition
+>>>>>>> bb8ee5bfce8bf984d7a76c00a4b7f95e43cdeff1
