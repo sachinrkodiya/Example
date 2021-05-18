@@ -1,3 +1,6 @@
 hi this is Sachin
-
+hello
+new Commit 3
+new edit.
+some addition
 This is done by other one.
