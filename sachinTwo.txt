@@ -1,2 +1,2 @@
 Trying to merge and raise merge conflicts.
-this is the test now.
+this is the TEST now.
